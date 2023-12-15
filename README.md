@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cyberhazzard" alt="cyberhazzard"/> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberhazzard&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-c)https://github-readme-stats.vercel.app/api/top-langs/?username=cyberhazzard&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-c](https://github.com/cyberhazzard/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberhazzard&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-c)](https://github.com/cyberhazzard/github-readme-stats)
 
 
 [![CyberHazzard's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberHazzard&count_private=true&show_icons=true&theme=synthwave)](https://github.com/CyberHazzard/github-readme-stats)
